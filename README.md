@@ -2,9 +2,10 @@
 My first repository
 
 ## Table of Contents
--[Project title](#Project-Title)
+-[Project Title](#Project-Title)
 -[Smaller Title](#Smaller-Title)
 -[Description](#Description)
+-[Files Used](#Files-Used)
 
 
 ## Project Title
@@ -18,3 +19,6 @@ I am making some updates
 This is my *first* repository, Hello world.
 -**This sentence should be bold.**
 -~~Strikethrough example~~
+
+## Files Used
+N/A
