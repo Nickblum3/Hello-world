@@ -17,6 +17,6 @@ My first repository
 I am making some updates
 
 ## Description
-This is my *first* repository. Hello world.
-**This sentence should be bold.**
-~~Strikethrough example~~
+-This is my *first* repository. Hello world.
+-**This sentence should be bold.**
+-~~Strikethrough example~~
