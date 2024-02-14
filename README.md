@@ -3,10 +3,8 @@ My first repository
 
 ## Table of Contents
 -[Project title](#Project-Title)
--[Description](#How-to-run-program)
--[Files Used](#files-used)
--[Additional Documentation](#additional-documentation)
--[Versioning](#versioning)
+-[Smaller Title](#Smaller-Title)
+-[Description](#Description)
 
 
 ## Project Title
