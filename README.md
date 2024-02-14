@@ -6,7 +6,7 @@ My first repository
 -[Smaller Title](#Smaller-Title)
 -[Description](#Description)
 -[Files Used](#Files-Used)
-
+-[Documentation](#Documentation)
 
 ## Project Title
 
@@ -21,4 +21,7 @@ This is my *first* repository, Hello world.
 -~~Strikethrough example~~
 
 ## Files Used
+N/A
+
+## Documentation
 N/A
